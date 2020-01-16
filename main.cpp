@@ -1,4 +1,4 @@
-
+//PREPARANDO PARA LA SEGUNDA VERSIÓN/
 #include "miniwin.h"
 using namespace miniwin;
 
